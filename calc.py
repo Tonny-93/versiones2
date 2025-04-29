@@ -8,8 +8,13 @@ def promedio(num1 , num2):
 def dividir(num1, num2):
   return n1 / n2
 
+
 def multiplicacion(num1, num2):
   return n1 * n2
+
+def suma(num1,num2):
+  return (n1+n2)
+
 
 print(promedio(n1,n2))
 #print(suma(n1,n2))
