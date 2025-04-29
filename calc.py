@@ -9,17 +9,11 @@ def dividir(num1, num2):
   return n1 / n2
 
 
-
-n1=int(input("ingrese primer numero"))
-n2=int(input("ingrese segundo numero"))
-
 def potencia(num1 , num2):
-return((num1^num2)
+  return((num1^num2)
 
 
-
-
-def resta(num1 , num2)
+def resta(num1 , num2):
   return n1 - n2
 
 
@@ -27,7 +21,7 @@ def multiplicacion(num1, num2):
   return n1 * n2
 
 def suma(num1,num2):
-  return (n1+n2):
+  return (n1+n2)
 
 
 
