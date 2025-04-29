@@ -9,6 +9,7 @@ def dividir(num1, num2):
   return n1 / n2
 
 
+
 n1=int(input("ingrese primer numero"))
 n2=int(input("ingrese segundo numero"))
 
@@ -18,6 +19,10 @@ return((num1^num2)
 
 
 
+def resta(num1 , num2)
+  return n1 - n2
+
+
 def multiplicacion(num1, num2):
   return n1 * n2
 
@@ -25,7 +30,9 @@ def suma(num1,num2):
   return (n1+n2):
 
 
+
 print(promedio(n1,n2))
 #print(suma(n1,n2))
 #print(multiplicacion(n1,n2))
 #print(dividir(n1,n2))
+
